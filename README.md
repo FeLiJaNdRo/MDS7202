@@ -22,11 +22,7 @@ Este repositorio contiene los laboratorios y entregas del curso, organizados por
 └── README.md
 
 ## Configuración del entorno
-
 uv venv
-
 source .venv/bin/activate
-
 uv sync
-
 pre-commit install
